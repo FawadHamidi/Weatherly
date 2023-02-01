@@ -1,0 +1,12 @@
+
+.brand{
+    display: flex;
+    justify-content: center;
+
+}
+
+.logo {
+    color: #3b3b3b;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
